@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>Elena Kisilevskaia - RESUME</title>
 <meta charset="UTF-8">
